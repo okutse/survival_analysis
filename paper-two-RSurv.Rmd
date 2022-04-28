@@ -5,7 +5,8 @@ author:
 date: "  `r format(Sys.time(), '%d %B, %Y')` "
 output:
   tufte::tufte_html:
-  tufte::tufte_handout: 
+  tufte::tufte_handout:
+  keep_md: yes 
   #  highlight: pygments
   #  toc_depth: 5
   # number_sections: true
