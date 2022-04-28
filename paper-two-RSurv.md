@@ -30,7 +30,7 @@ output:
 
 Sorry, this page is still a work in progress. In the meantime, you can read the paper^[Okutse, A., & Nyongesa, K. (2021). Differential Expression Analysis for the Identification of Survival Associated Genes in Primary Bladder Cancer using Microarray Data. International Journal of Undergraduate Research and Creative Activities, 13(1)].
 
-I'll update soon!
+I'll update soon. Cheers!
 
 
 
